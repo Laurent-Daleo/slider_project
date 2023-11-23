@@ -139,8 +139,8 @@ function init(){
   // Affiche le dot qui correspond à ma slide active en blanc
   setActiveDot()
   
-  // Lancement le slider de manière automatique
-  slideshow()
+  // Lancement du slider de manière automatique
+  //slideshow()
 }
 
 init()
